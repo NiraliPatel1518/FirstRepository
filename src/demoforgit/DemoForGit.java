@@ -18,6 +18,7 @@ public class DemoForGit {
       //adding a comment
       //making unother change
       //showing local and remote
+        //showing pull
     }
     
 }
