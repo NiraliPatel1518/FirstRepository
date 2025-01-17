@@ -19,6 +19,7 @@ public class DemoForGit {
       //making unother change
       //showing local and remote
         //showing pull
+        //showing fetch and merge
     }
     
 }
