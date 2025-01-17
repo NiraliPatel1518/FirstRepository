@@ -17,6 +17,7 @@ public class DemoForGit {
       System.out.println("Hello Sheridan");
       //adding a comment
       //making unother change
+      //showing local and remote
     }
     
 }
